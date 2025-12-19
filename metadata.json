@@ -1,0 +1,5 @@
+{
+  "name": "India Post Smart Track",
+  "description": "An intelligent parcel tracking system for India Post using Gemini Thinking mode to predict delays and Veo to simulate delivery scenarios.",
+  "requestFramePermissions": []
+}
